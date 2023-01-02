@@ -1,0 +1,1 @@
+docker exec go-boilerplate-api-container /bin/bash -c "go test tests/*.go"

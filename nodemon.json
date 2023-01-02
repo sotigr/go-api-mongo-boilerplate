@@ -1,0 +1,6 @@
+{
+    "verbose": true, 
+    "ext": "go,json,mod",
+    "exec": "go run main.go || exit 1",
+    "signal": "SIGTERM" 
+}
